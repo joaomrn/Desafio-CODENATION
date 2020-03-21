@@ -47,8 +47,9 @@ namespace DesafioCodenation
             RestRequest restRequest = new RestRequest();
             restRequest.RequestFormat = DataFormat.Json;
             restRequest.Method = Method.POST;
-            restRequest.AddFile("answer", filepath);
+            restRequest.AddFile("answer", filepath, "multipart/form-data");
             var response = restClient.Execute(restRequest);
+
 
             // score = 65
         }

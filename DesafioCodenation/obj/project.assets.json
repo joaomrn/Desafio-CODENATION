@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Projetos\\CODENATION\\DesafioCodenation\\DesafioCodenation.csproj",
+      "projectUniqueName": "D:\\_Projetos\\code\\DesafioCodenation\\DesafioCodenation.csproj",
       "projectName": "DesafioCodenation",
-      "projectPath": "D:\\_Projetos\\CODENATION\\DesafioCodenation\\DesafioCodenation.csproj",
+      "projectPath": "D:\\_Projetos\\code\\DesafioCodenation\\DesafioCodenation.csproj",
       "packagesPath": "C:\\Users\\joao\\.nuget\\packages\\",
-      "outputPath": "D:\\_Projetos\\CODENATION\\DesafioCodenation\\obj\\",
+      "outputPath": "D:\\_Projetos\\code\\DesafioCodenation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
